@@ -1,1 +1,1 @@
-# python_Bobinski
+# i love math
